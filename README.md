@@ -8,7 +8,7 @@ I am a Software Engineer with a passion for developing applications and software
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My portfolio based on the work done during my masters at University of Essex Online](http://adamsuthman.github.io/adamsuthman-University_of_Essex_eportfolio/)
-* ✉️  You can contact me at [adamsuthman1234@gmail.com](mailto:adamsuthman1234@gmail.com)
+* ✉️  You can contact me at [arafabubakar4@gmail.com)
 * 🚀  I'm currently working on [A Python program that supports a driverless car](http://github.com/AdamsUthman/Driverless_car)
 * 🧠  I'm learning Software Engineering with ALX and also completing my masters at University of Essex Online
 * 🤝  I'm open to collaborating on Developing apps and websites that solve modern day problems
